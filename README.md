@@ -1,6 +1,7 @@
 # koi_final
 koi
 an ios app that revolutionizes how everyday people measure water consumption and waste.
+
 [learn more here.](https://docs.google.com/presentation/d/1aXxdUupjufpC5HetI7WZ4lcy_T7AOw5DLX3JemGCTxU/edit?usp=sharing)
 
 ## 💡 Inspiration
