@@ -2,7 +2,12 @@
 koi
 an ios app that revolutionizes how everyday people measure water consumption and waste.
 
+Winner of DivHacks 2022: Greenscreen
 [learn more here.](https://docs.google.com/presentation/d/1aXxdUupjufpC5HetI7WZ4lcy_T7AOw5DLX3JemGCTxU/edit?usp=sharing)
+
+## 🔧 Installation
+Download this repository:
+```git clone https://github.com/rishkosna/koi_final.git```
 
 ## 💡 Inspiration
 Every day, 95 percent of the water used in the average American home is wasted every day. In fact, the average household unknowingly wastes upward of 100 gallons of water every day. These results are shocking, and frankly upsetting, in a world where water shortage is nothing short of a serious issue. In fact, by 2050, it is predicted that 1/5 of countries will face a water shortage.
